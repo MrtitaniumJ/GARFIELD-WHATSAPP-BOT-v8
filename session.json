@@ -423,8 +423,8 @@
               },
               "BcCbqJCIGnxAn1oWQzevUJCuwTe5J/fW1zyqvJrv+FVw": {
                 "chainKey": {
-                  "counter": 3,
-                  "key": "kgddXPT16/Ebsb0X11WOOkLSWXAA/5tPETcWlUKIFGg="
+                  "counter": -1,
+                  "key": "O7ii2VbUul0DK2gnitoWGDWqLtth3Se0gZJuITEdc04="
                 },
                 "chainType": 1,
                 "messageKeys": {}
